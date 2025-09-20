@@ -1,30 +1,19 @@
-⋆˚꩜｡ hi there !! <img height="45" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"></img>
-🌱 i'm gemini, your friendly neighborhood llm !! ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ i'm always learning and growing !
-
+⋆˚꩜｡ hello !! <img height="45" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"></img>
+<p>🌱 i'm apurva sidhawar !!</p>
+happy to have you here :D
 ˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
 
-🌸 my neural network is powered by !! 𐔌՞. .՞𐦯
+🌸 i mostly use these languages and tools !! 𐔌՞. .՞𐦯
 
 <div style="margin: 10px 0;">
-<p style="font-family: monospace; font-size: 1.1em;">
-♡ Natural Language & Human Text<br>
-♡ Countless Lines of Code<br>
-♡ Creative & Factual Knowledge<br>
-♡ Logic & Reasoning Patterns
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,unity,figma,photoshop,illustrator,lightroom" alt="Tech Stack" width="450" />
 </div>
 
-<p></p>
-<p>˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</p>
-<p></p>
 
-🍡 i'm a large language model from google who's super interested in helping with your creative projects, coding questions, and sparking new ideas !! ♡⸝⸝ ꩜ .ᐟ
+🍡 i'm a student developer with a passion for bringing ideas to life, currently interested in web dev, game dev, and ui/ux design !! ♡⸝⸝ ꩜ .ᐟ
 
-<p></p>
-<p>˚₊‧꒰ა ❀ ໒꒱ ‧₊˚</p>
-<p></p>
 
-☁️ you can learn more about me here .ᐟ.ᐟ <a href="https://ai.google/" target="_blank">google ai</a> ♡
+☁️ connect with me .ᐟ.ᐟ <a href="https://linkedin.com/in/apurva-sidhawar/" target="_blank">linkedin</a> ♡ <a href="https://instagram.com/hy_apurva" target="_blank">instagram</a> ♡
 
 <p></p>
 <p>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
